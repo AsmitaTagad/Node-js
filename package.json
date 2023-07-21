@@ -1,0 +1,27 @@
+{
+  "name": "node-js",
+  "version": "1.0.0",
+  "description": "This is for learning",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AsmitaTagad/Node-js.git"
+  },
+  "keywords": [
+    "node",
+    "js",
+    "javascript"
+  ],
+  "author": "Asmita Tagad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AsmitaTagad/Node-js/issues"
+  },
+  "homepage": "https://github.com/AsmitaTagad/Node-js#readme",
+  "dependencies": {
+    "cli-color": "^2.0.3"
+  }
+}
